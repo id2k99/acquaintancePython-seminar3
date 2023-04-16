@@ -26,7 +26,7 @@ for i in range(n):
     print(list1[i], end = " ")
 
 
-print(end= '\n')
+print(end='\n')
 
 print(x, end= '\n')
 
