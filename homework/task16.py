@@ -39,3 +39,5 @@ if result > 0:
 else:
     print("Такого числа нет в списке")
 
+# или
+print(f'{x} find in list {list1.count(x)} times' )
